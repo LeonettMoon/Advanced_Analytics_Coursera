@@ -1,6 +1,8 @@
 # Advanced_Analytics_Coursera
 
 ## Branch: "Automatidata Project"
+__Project Scenario:__ 
+> You are a newly-hired data professional at Automatidata, a fictional data consulting firm. Automatidata’s focus is to help clients transform their unused and stored data into useful solutions. In this scenario, you will consult with The New York City Taxi & Limousine Commission to develop an app that will help users (TLC riders) estimate their taxi fares before their ride. Your first responsibility as a data analytics consultant will be to structure the necessary tasks into a project proposal that establishes milestones for the ride fare data project.
 
 This branch contains several files from the project developed in the course. It includes documents on PACE questions, Jupyter Notebooks in PDF format, and executive summaries from each step of the project. Below is a brief summary of the goal for each course:
 
